@@ -42,6 +42,7 @@ For learning purposes I encourage you to test different parameters and compare p
 Unfortunately most comments are in Portuguese-BR, I'll be working on translating them as soon as possible.
 
 ## To add:
+- [ ] Translate comments
 - [ ] Continuous action
 - [ ] LSTM
 
